@@ -1,0 +1,17 @@
+body {
+    background-color: #ffffff;
+}
+  
+h1 {
+    margin-bottom: 20px;
+}
+  
+.container {
+  max-width: 600px;
+  height: 250px;
+  background-color: rgb(255, 144, 236);
+  border-radius: 10px 50px 10px 50px;
+  padding: 20px;
+} 
+
+  
